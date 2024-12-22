@@ -6,6 +6,6 @@ public class Hounting {
 
     }
     public void sled(){
-        System.out.println("go to sled");
+        System.out.println("go to sled animal");
     }
 }
