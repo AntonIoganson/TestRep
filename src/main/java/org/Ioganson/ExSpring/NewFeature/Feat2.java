@@ -10,4 +10,7 @@ public class Feat2 {
     public void superJump(){
         System.out.println("Super jump");
     }
+    public void feature1FromP1(){
+        System.out.println("feature1FromP1");
+    }
 }
